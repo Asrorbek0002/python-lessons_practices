@@ -9,4 +9,5 @@ ism=["Hello world"]
 print(ism)
 cars=["tesla","bmw","gm"]
 print(cars)
-
+moon=["look","smartWatch","Iphone"]
+print(moon)
