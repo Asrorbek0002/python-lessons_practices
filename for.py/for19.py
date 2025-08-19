@@ -1,0 +1,10 @@
+#n=5
+#s=1
+#for i in range(1,5+1):
+#    s*=i
+#print(s)    
+n=5
+f=1
+for i in range(1,n+1):
+    f*=i
+print(f)

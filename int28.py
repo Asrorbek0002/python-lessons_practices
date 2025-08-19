@@ -1,0 +1,10 @@
+a,b=5,10
+x=a*b
+c=a//2
+d=b//2
+c=2
+sk=c**2
+q=c*d
+y=q*sk
+su=x-y
+print(su,q)

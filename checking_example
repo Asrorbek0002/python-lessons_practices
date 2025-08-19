@@ -1,0 +1,22 @@
+#a=2
+#a1=a*a
+#print(a1)
+#a1=a1*a1
+#print(a1)
+#a1=a*a1
+#print(a1)
+#a=3
+#a1=a*a
+#print(a1)
+#a=a1*a
+#print(a)
+#a1=a*a1
+#a=a1*a1
+#print(a)
+#pi=3.14
+#rad=(pi/180)*a
+#print(Arad)
+#a1,b1,c1, a2,b2,c2=1,1,5, 2,-1,4
+#y=(a1*c2-a2*c1)/(a1*b2-a2*b1)   
+#x=(c1-y*b1)/a1
+#print(x,y)
