@@ -1,0 +1,1 @@
+{"ism": "Alijon Valiyev", "yosh": 30, "oila": true, "farzandlar": "Ahmad,Bonue", "allergiya": null, "dorilar": [{"nomi": "analgin", "miqdori": 0.5}, {"nomi": "Pandol", "miqdor": 1.2}]}
